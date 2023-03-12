@@ -6,5 +6,3 @@ while True:
         speech.say("sonoke-kihakuwasahende")
         display.show(Image.HAPPY)
         sleep(400)
-        
-        #あなたがいてわたしがいてふりかえればえがおがある桜が咲き季節巡りそれでもそこにあなたがいたtalktalk陽炎が昇る坂道
